@@ -1,0 +1,19 @@
+export const ALL_PRODUCTS = 'ALL_PRODUCTS';
+export const ALL_CATE = 'ALL_CATE';
+export const NEWBYCATE = 'NEWBYCATE';
+export const GETNEW = 'GETNEW';
+
+
+export const GETALLCOURSE = 'GETALLCOURSE';
+export const ALL_CATE_COURSE = 'ALL_CATE_COURSE';
+export const SEARCH_COURSE = 'SEARCH_COURSE';
+export const ALLCOURSECATE = 'ALLCOURSECATE';
+
+
+export const DETAILCOURSE = 'DETAILCOURSE';
+export const OUTLINECOURSE = 'OUTLINECOURSE';
+export const HOCLIEUCOURSE = 'HOCLIEUCOURSE';
+
+
+export const SHOWRECOMMENT = 'SHOWRECOMMENT';
+
